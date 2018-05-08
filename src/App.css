@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 50px;
+  color: white;
+  align-items: "center";
+  justify-content: "center";
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+ul.navbar li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  background-color: #222;
+}
+
+ul.navbar li a {
+  font-weight: bold;
+  color: #FFF;
+  text-decoration: none;
+  padding: 10px;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+.active {
+  background-color: #0099FF;
+}
